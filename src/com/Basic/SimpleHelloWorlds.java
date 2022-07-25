@@ -1,4 +1,4 @@
-package com.Basic;
+ package com.Basic;
 
 public class SimpleHelloWorlds {
 
@@ -6,6 +6,7 @@ public class SimpleHelloWorlds {
 
 
 		System.out.println("Hello World");
+		System.out.println("New Hello From Ash");
 	}
 
 }
